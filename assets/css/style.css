@@ -1,0 +1,15 @@
+.blue{
+	background: skyblue;
+}
+.container{
+	text-align: center;
+}
+.row{
+}
+.border{	
+	border: 3px solid #fff;
+	padding-bottom: 100px;
+}
+span{
+	margin: 0;
+}
